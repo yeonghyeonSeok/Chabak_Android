@@ -8,6 +8,7 @@
 
 <br></br>
 ### 사용메뉴얼
+---
 
 #### ✔ 로그인 화면
 <img width="725" alt="로그인" src="https://user-images.githubusercontent.com/65716143/101371311-f2645b80-38ed-11eb-8ea7-23d30a8f4931.png">
@@ -39,15 +40,18 @@
 
 <br></br>
 ### Developer
+---
 - **석영현**(yeonghyeonSeok)<br>
 - **김성환**(ksh9409255)<br>
 - **이정훈**(Lee-jeong-hoon)<br></br>
 
 ### Chabak의 다른 프로젝트
+---
 - 서버<br>
 https://github.com/project-chabak/ChaBak__Server
 <br></br>
 ### 프로젝트 제작에 참고된 참고문헌, 서적, URL
+---
 ⩥ https://velopert.com/ - Express 서버 구현<br>
 ⩥ https://opentutorials.org/course/3161/19548 - MySQL Workbench 사용<br>
 ⩥ https://www.zerocho.com/ - Nodejs 모듈 사용<br>
